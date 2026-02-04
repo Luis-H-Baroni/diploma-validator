@@ -2,6 +2,8 @@
 
 Blockchain-based digital diploma verification system that enables institutions to verify and store academic records on the blockchain, providing tamper-proof and publicly verifiable credentials.
 
+This project was developed as part of my thesis for the Bachelor's degree in Systems Information.
+
 ## Overview
 
 This system consists of a **NestJS backend** with smart contract integration and a **simple frontend** that allows users to:
